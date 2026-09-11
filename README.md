@@ -1,3 +1,19 @@
-# mcp-ui -design-demo
+# MCP UI Design Demo
 
- Code demo is a real ui, gam manual
+This repository demonstrates UI components for a design system.
+
+------
+
+## Button UI (button.tsx)
+
+A simple button component using Dig design tokens.
+
+------
+
+### Why Dig components
+- Button is provided by Dig UI registry.
+
+------
+
+### Dig Icon usage
+- Icon used: IconName
