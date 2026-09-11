@@ -1,17 +1,3 @@
-# mcp-ui-design-demo
+# mcp-ui -design-demo
 
-Pay Button UI
-src/components/ui/pay-button.tsx
---------
-
-این UI دکمه‌ای پرداخت با آیکون کارت اعتباری است که با کامپوننت Button دیگ ساخته شده است. آیکون کارت اعتباری از Digche استخراج و داخل دکمه ادغام شده است تا معنای پرداخت به‌وضوح منتقل شود و با RTL مناسب طراحی شده است.
-
-جزئیات:
-- کامپوننت Dig استفاده‌شده: Button از '@/components/ui/button'
-- آیکون Digche استفاده‌شده: credit-card
-- دلیل انتخاب آیکون: نشان‌دهندهٔ پرداخت/ کارت اعتباری برای فرایند پرداخت
-- مسیر فایل UI: src/components/ui/pay-button.tsx
-
-نمونهٔ استفاده:
-
-<PayButton>پرداخت</PayButton>
+ Code demo is a real ui, gam manual
