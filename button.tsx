@@ -1,3 +1,5 @@
-import * as React from "react"
+import * as React from "react";
 
-export { Button } as default
+export default function Button(){
+  return <button>Click</button>
+}
